@@ -1,2 +1,3 @@
 # autotest_localization
-auto-tests for different user languages
+
+auto-test for different user languages
