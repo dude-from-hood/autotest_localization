@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 import time
 
 
-def test_content_should_display_by_chosen_language(browser):
+def test_page_has_button_add_to_basket(browser):
     browser.get(
         "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/")
     browser.implicitly_wait(1)
